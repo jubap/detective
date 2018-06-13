@@ -5,7 +5,7 @@ Este exercício consiste no desenvolvimento de um jogo hipotético
 
 
 
-# Tecninologias usadas
+# Tecnologias usadas
 
 
 # NodeJS
