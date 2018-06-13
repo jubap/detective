@@ -1,0 +1,33 @@
+/* Navbar-top fix */
+@media (max-width: 575px) {
+  #main {
+    padding-top: 53px !important;
+  }
+}
+@media (min-width: 576px) {
+  #main {
+    padding-top: 53px;
+  }
+}
+
+@media (min-width: 768px) {
+  #main {
+    padding-top: 62px;
+  }
+}
+
+@media (min-width: 992px) {
+  #main {
+    padding-top: 62px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #main {
+    padding-top: 62px !important;
+  }
+}
+
+#resp {
+    padding-top: 53px;
+}
